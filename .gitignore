@@ -1,2 +1,3 @@
 data/NTSB/
 .ipynb_checkpoints/
+__pycache__/
